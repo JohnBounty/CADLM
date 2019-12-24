@@ -1,5 +1,6 @@
 # Compiled source #
 
+*.pages
 *.exe
 *.out
 
